@@ -1,1 +1,1 @@
-# gbOS86-
+# BookOS-Skylake-Intel-Legacy
